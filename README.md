@@ -122,7 +122,3 @@ OCR_LANG = "eng+fra"
 Close from Task Manager
 
 Or stop the Python process in terminal (Ctrl + C)
-
-## 📄 License
-
-This project is for educational and personal use.
