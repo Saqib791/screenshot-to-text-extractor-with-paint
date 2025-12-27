@@ -53,7 +53,7 @@ Update this path if Tesseract is installed elsewhere.
 
 ▶️ Run the Application
 ```javascript
-python screenshot_to_text_extractor_final.py
+python screenshot_to_text_extractor.py
 ```
 
 
